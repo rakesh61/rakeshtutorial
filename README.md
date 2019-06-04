@@ -1,5 +1,5 @@
 # rakeshtutorial
 rakesh teaching me
 
-# python opics link
+# python topics link
 https://www.programiz.com/python-programming/object-oriented-programming#key-points
